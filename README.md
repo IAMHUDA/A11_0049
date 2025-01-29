@@ -7,7 +7,7 @@
 
 
 
-#Halaman buku
+# Halaman buku
 | Halaman              | Screenshot                                   | Deskripsi                                               |
 |----------------------|----------------------------------------------|--------------------------------------------------------|
 | Halaman Utama        | ![halamanutamabuku](https://github.com/user-attachments/assets/ea54624f-58a8-4102-9331-a3bda58d5749)|    daftar buku yang tersedia    |
